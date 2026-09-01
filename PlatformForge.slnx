@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Demo/Demo.csproj" />
+  <Project Path="PlatformAudio/PlatformAudio.csproj" />
+  <Project Path="PlatformContext/PlatformContext.csproj" />
+  <Project Path="PlatformEngine/PlatformEngine.csproj" />
+  <Project Path="PlatformImage/PlatformImage.csproj" />
+  <Project Path="PlatformInput/PlatformInput.csproj" />
+  <Project Path="PlatformNative/PlatformNative.csproj" />
+  <Project Path="PlatformRender/PlatformRender.csproj" />
+  <Project Path="PlatformWindow/PlatformWindow.csproj" />
+  <Project Path="Start/Start.csproj" />
+</Solution>
